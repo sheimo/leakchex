@@ -1,0 +1,20 @@
+# Never commit credentials
+.leakcheck_key
+*.key
+.env
+
+# Input target lists and generated reports contain personal data
+*.list
+*.output.txt
+*.report.txt
+results/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
