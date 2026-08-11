@@ -22,7 +22,7 @@ Feed it a list of addresses, get back a readable report of which ones appear in 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/leakchex.git
+git clone https://github.com/sheimo/leakchex.git
 cd leakchex
 chmod +x leakchex.py
 ```
